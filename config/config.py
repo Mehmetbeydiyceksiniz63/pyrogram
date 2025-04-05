@@ -218,13 +218,13 @@ autoclean = []
 
 # Images
 
-START_IMG_URL = getenv("START_IMG_URL", "https://r.resimlink.com/gEbr67jJ.png")
+START_IMG_URL = getenv("START_IMG_URL", "https://ibb.co/G4DPbZTP")
 
 PING_IMG_URL = getenv(
 
     "PING_IMG_URL",
 
-    "https://r.resimlink.com/gEbr67jJ.png",
+    "https://ibb.co/G4DPbZTP",
 
 )
 
